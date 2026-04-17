@@ -7,3 +7,5 @@ Thalison Matheus Rocha pessoa
 Gustavo Pereira de Lira
 
 Luiz Filipe Borges Ferreira
+
+Artur Vinicius da Costa Januario
